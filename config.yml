@@ -1,0 +1,9 @@
+server:
+  applicationConnectors:
+    - type: http
+      port: 38704
+  adminConnectors:
+    - type: http
+      port: 38705
+externalServiceURL: https://challenge-business-sector-api.meza.talkdeskstg.com
+prefixesFilePath: prefixes.txt
