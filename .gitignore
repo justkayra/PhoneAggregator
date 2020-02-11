@@ -1,0 +1,11 @@
+.idea
+*.iml
+/out/
+/.svn/
+# Logs #
+########
+
+target
+/.settings/
+/.classpath
+/.project
